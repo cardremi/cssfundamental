@@ -1,0 +1,14 @@
+html {
+    display: flex;
+}
+@font-face {
+    font-family: 'Langar' ;
+    src:url(../Assets/Fonts/Langar-Regular.ttf)
+}
+body {
+font-family: 'langar';
+}
+
+#judul {
+font-family:"verdana";
+}
